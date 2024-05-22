@@ -11,7 +11,7 @@ import config from "./src/config/config.json";
 // https://astro.build/config
 export default defineConfig({
   build:{
-    site: 'https://pablobandeira.github.io/',
+    site: 'https://pablobandeira.github.io',
   },
   integrations: [
     react(),
