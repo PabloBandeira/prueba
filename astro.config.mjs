@@ -11,7 +11,7 @@ import config from "./src/config/config.json";
 // https://astro.build/config
 export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "http://PabloBandeira.github.io",
-  base: config.site.base_path ? config.site.base_path : "/prueba",
+  base: config.site.base_path ? config.site.base_path : "prueba",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {
     service: squooshImageService(),
