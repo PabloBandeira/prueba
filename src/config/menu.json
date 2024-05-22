@@ -9,7 +9,7 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
+      "_name": "Elements",
       "url": "/elements"
     },
     {
@@ -22,23 +22,23 @@
           "url": "/contact"
         },
         {
-          "name": "Blog",
+          "_name": "Blog",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "_name": "Authors",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "_name": "Categories",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "_name": "Tags",
           "url": "/tags"
         },
         {
-          "name": "404 Page",
+          "_name": "404 Page",
           "url": "/404"
         }
       ]
@@ -46,11 +46,11 @@
   ],
   "footer": [
     {
-      "name": "Elements",
+      "_name": "Elements",
       "url": "/elements"
     },
     {
-      "name": "Privacy Policy",
+      "_name": "Privacy Policy",
       "url": "/privacy-policy"
     }
   ]
