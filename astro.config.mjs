@@ -34,6 +34,7 @@ export default defineConfig({
     }),
     mdx(),
   ],
+  output: 'static',
   markdown: {
     remarkPlugins: [
       remarkToc,
