@@ -1,0 +1,15 @@
+.content {
+    text-align: left;
+    margin: 0 auto; /* Centrar el contenedor pero alinear el texto a la izquierda */
+    max-width: 800px; /* Ancho máximo del contenedor para una mejor legibilidad */
+    padding: 20px;
+  }
+  
+  .section-sm {
+    padding-top: 0; /* Reducir el padding superior para acercar el contenido a la parte superior de la página */
+  }
+  
+  .mt-4 {
+    margin-top: 1rem; /* Ajuste de margen superior para posicionar el contenido */
+  }
+  
