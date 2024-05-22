@@ -35,6 +35,7 @@ export default defineConfig({
     mdx(),
   ],
   output: 'static',
+  outDir: './docs',
   markdown: {
     remarkPlugins: [
       remarkToc,
